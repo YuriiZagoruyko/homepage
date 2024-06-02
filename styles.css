@@ -264,3 +264,10 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+.my-dog{
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
